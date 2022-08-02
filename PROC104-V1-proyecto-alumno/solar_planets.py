@@ -41,7 +41,7 @@ cv2.putText(img,
              (255,255,255)
              )
 cv2.putText(img,
-            "Jupiter", #cv2 no acepta caracteres especiales
+            "Jupiter", 
              (500,90),
              cv2.FONT_HERSHEY_COMPLEX,
              0.5,
